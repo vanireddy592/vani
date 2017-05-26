@@ -1,0 +1,2 @@
+class Iceage < ApplicationRecord
+end
